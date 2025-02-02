@@ -139,7 +139,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: aminaranpour292@gmail.om
+- **Email**: aminaranpour292@gmail.com
 - **GitHub**: [MohammadAminar](https://github.com/MohammadAminar/)
 
 ---
